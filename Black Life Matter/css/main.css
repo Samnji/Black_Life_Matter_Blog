@@ -158,6 +158,9 @@ h2 {
   display: inline-block;
   margin-top: 20px;
 }
+.references {
+  font-size: 1.0rem;
+}
 
 footer p {
   margin-top: 20px;
